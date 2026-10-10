@@ -1,3 +1,13 @@
+
+<div align="center">
+  <img
+    src="./assets/github-banner.png"
+    alt="Mahesh Allaka | Full-Stack Developer and AI Engineering"
+    width="100%"
+  />
+</div>
+
+<br/>
 <div align="center">
 
 # Hey, I'm Mahesh 👋
